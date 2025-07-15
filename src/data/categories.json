@@ -1,0 +1,9 @@
+[
+    { "key": "id" },
+    { "key": "health" },
+    { "key": "education" },
+    { "key": "finance" },
+    { "key": "transport" },
+    { "key": "social_services" }
+  ]
+  
