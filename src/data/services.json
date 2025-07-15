@@ -1,0 +1,126 @@
+
+  {
+    "passport": {
+      "category": "id",
+      "lesson": "passport_lesson",
+      "requirements": ["passport_req_1", "passport_req_2", "passport_req_3"],
+      "fee": "passport_fee",
+      "location": "passport_location",
+      "faqs": [
+        { "q": "passport_q1", "a": "passport_a1" },
+        { "q": "passport_q2", "a": "passport_a2" }
+      ]
+    },
+    "birth_certificate": {
+      "category": "id",
+      "lesson": "birth_cert_lesson",
+      "requirements": ["birth_cert_req_1", "birth_cert_req_2"],
+      "fee": "birth_cert_fee",
+      "location": "birth_cert_location",
+      "faqs": [
+        { "q": "birth_cert_q1", "a": "birth_cert_a1" },
+        { "q": "birth_cert_q2", "a": "birth_cert_a2" }
+      ]
+    },
+    "health_insurance_registration": {
+      "category": "health",
+      "lesson": "health_insurance_lesson",
+      "requirements": ["health_ins_req_1", "health_ins_req_2"],
+      "fee": "health_ins_fee",
+      "location": "health_ins_location",
+      "faqs": [
+        { "q": "health_ins_q1", "a": "health_ins_a1" }
+      ]
+    },
+    "vaccination_service": {
+      "category": "health",
+      "lesson": "vaccination_lesson",
+      "requirements": ["vaccination_req_1"],
+      "fee": "vaccination_fee",
+      "location": "vaccination_location",
+      "faqs": [
+        { "q": "vaccination_q1", "a": "vaccination_a1" }
+      ]
+    },
+    "school_registration": {
+      "category": "education",
+      "lesson": "school_reg_lesson",
+      "requirements": ["school_reg_req_1", "school_reg_req_2", "school_reg_req_3"],
+      "fee": "school_reg_fee",
+      "location": "school_reg_location",
+      "faqs": [
+        { "q": "school_reg_q1", "a": "school_reg_a1" }
+      ]
+    },
+    "adult_literacy_program": {
+      "category": "education",
+      "lesson": "adult_lit_lesson",
+      "requirements": ["adult_lit_req_1"],
+      "fee": "adult_lit_fee",
+      "location": "adult_lit_location",
+      "faqs": [
+        { "q": "adult_lit_q1", "a": "adult_lit_a1" }
+      ]
+    },
+    "bank_account_opening": {
+      "category": "finance",
+      "lesson": "bank_account_lesson",
+      "requirements": ["bank_account_req_1", "bank_account_req_2"],
+      "fee": "bank_account_fee",
+      "location": "bank_account_location",
+      "faqs": [
+        { "q": "bank_account_q1", "a": "bank_account_a1" }
+      ]
+    },
+    "tax_registration": {
+      "category": "finance",
+      "lesson": "tax_reg_lesson",
+      "requirements": ["tax_reg_req_1", "tax_reg_req_2"],
+      "fee": "tax_reg_fee",
+      "location": "tax_reg_location",
+      "faqs": [
+        { "q": "tax_reg_q1", "a": "tax_reg_a1" }
+      ]
+    },
+    "driving_license": {
+      "category": "transport",
+      "lesson": "driving_license_lesson",
+      "requirements": ["driving_license_req_1", "driving_license_req_2"],
+      "fee": "driving_license_fee",
+      "location": "driving_license_location",
+      "faqs": [
+        { "q": "driving_license_q1", "a": "driving_license_a1" }
+      ]
+    },
+    "vehicle_registration": {
+      "category": "transport",
+      "lesson": "vehicle_registration_lesson",
+      "requirements": ["vehicle_reg_req_1", "vehicle_reg_req_2"],
+      "fee": "vehicle_reg_fee",
+      "location": "vehicle_reg_location",
+      "faqs": [
+        { "q": "vehicle_reg_q1", "a": "vehicle_reg_a1" }
+      ]
+    },
+    "social_security_registration": {
+      "category": "social_services",
+      "lesson": "social_sec_lesson",
+      "requirements": ["social_sec_req_1", "social_sec_req_2"],
+      "fee": "social_sec_fee",
+      "location": "social_sec_location",
+      "faqs": [
+        { "q": "social_sec_q1", "a": "social_sec_a1" }
+      ]
+    },
+    "family_support_service": {
+      "category": "social_services",
+      "lesson": "family_support_lesson",
+      "requirements": ["family_support_req_1"],
+      "fee": "family_support_fee",
+      "location": "family_support_location",
+      "faqs": [
+        { "q": "family_support_q1", "a": "family_support_a1" }
+      ]
+    }
+  }
+  
