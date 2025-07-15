@@ -1,0 +1,150 @@
+{
+    "categories": {
+      "id": "ID Services",
+      "health": "Health Services",
+      "education": "Education Services",
+      "finance": "Financial Services",
+      "transport": "Transport Services",
+      "social_services": "Social Services"
+    },
+    "buttons": {
+      "teach": "About Service",
+      "guide": "Requirements & Details",
+      "faq": "FAQs",
+      "back": "Back",
+      "main_menu": "Main Menu"
+    },
+    "messages": {
+        "select_category": "Please select a service category:",
+        "select_service": "Please select a specific service:",
+        "select_option": "Please choose an option:"
+      },
+      "services": {
+        "passport": "Passport",
+        "birth_certificate": "Birth Certificate",
+        "health_insurance_registration": "Health Insurance Registration",
+        "vaccination_service": "Vaccination Service",
+        "school_registration": "School Registration",
+        "adult_literacy_program": "Adult Literacy Program",
+        "bank_account_opening": "Bank Account Opening",
+        "tax_registration": "Tax Registration",
+        "driving_license": "Driving License",
+        "vehicle_registration": "Vehicle Registration",
+        "social_security_registration": "Social Security Registration",
+        "family_support_service": "Family Support Service"
+      },      
+
+    "prompts": {
+      "requirements_header": "Requirements:",
+      "no_requirements": "No specific requirements listed.",
+      "fee_label": "Estimated Fee:",
+      "location_label": "Where to get this service:",
+      "faq_header": "Frequently Asked Questions:",
+      "no_faq": "No FAQs available."
+    },
+    "errors": {
+      "missing_info": "Information not available."
+    },
+  
+    "passport_lesson": "A passport is an official government-issued document that certifies your identity and nationality, required for international travel.",
+    "passport_fee": "Approximately 1000 ETB",
+    "passport_location": "Main Immigration Office or local branches",
+  
+    "passport_req_1": "Completed application form",
+    "passport_req_2": "Two recent passport-size photos",
+    "passport_req_3": "Valid ID or birth certificate",
+    "passport_q1": "How long does it take to get a passport?",
+    "passport_a1": "It usually takes 2 to 4 weeks.",
+    "passport_q2": "Can I apply online?",
+    "passport_a2": "Yes, you can start the process online, but you must visit the office in person for final steps.",
+  
+    "birth_cert_lesson": "A birth certificate is an official document that records the birth of a child and is needed for school, ID, and many services.",
+    "birth_cert_fee": "Free of charge",
+    "birth_cert_location": "Local civil registration offices",
+  
+    "birth_cert_req_1": "Hospital birth record or witness statement",
+    "birth_cert_req_2": "Parents' ID cards",
+    "birth_cert_q1": "Where can I apply?",
+    "birth_cert_a1": "At your local civil registration office.",
+    "birth_cert_q2": "Is late registration allowed?",
+    "birth_cert_a2": "Yes, but it may require additional supporting documents.",
+  
+    "health_insurance_lesson": "Health insurance registration allows you to access affordable medical services in public and partner facilities.",
+    "health_ins_fee": "Varies by plan",
+    "health_ins_location": "Local health insurance offices",
+    "health_ins_req_1": "Government-issued ID",
+    "health_ins_req_2": "Proof of residence",
+    "health_ins_q1": "Do I need to pay monthly?",
+    "health_ins_a1": "Yes, depending on the type of coverage and plan.",
+  
+    "vaccination_lesson": "Vaccination services help prevent diseases like measles, polio, and COVID-19. It is safe and important for all ages.",
+    "vaccination_fee": "Free",
+    "vaccination_location": "Community health centers",
+    "vaccination_req_1": "Vaccination card or ID",
+    "vaccination_q1": "Are vaccines free?",
+    "vaccination_a1": "Yes, basic vaccines are provided for free at health centers.",
+  
+    "school_reg_lesson": "School registration is the process of enrolling your child or yourself in a local school for primary or secondary education.",
+    "school_reg_fee": "Usually free or minimal fees",
+    "school_reg_location": "Local education offices",
+    "school_reg_req_1": "Birth certificate or ID",
+    "school_reg_req_2": "Previous academic records (if any)",
+    "school_reg_req_3": "Completed school registration form",
+    "school_reg_q1": "When does registration open?",
+    "school_reg_a1": "It typically opens between June and August, but check with local offices.",
+  
+    "adult_lit_lesson": "Adult literacy programs provide free education for adults to improve reading, writing, and basic math skills.",
+    "adult_lit_fee": "Free",
+    "adult_lit_location": "Community learning centers",
+    "adult_lit_req_1": "Willingness to attend regularly",
+    "adult_lit_q1": "Is there an age limit?",
+    "adult_lit_a1": "No, anyone over 15 years old can join.",
+  
+    "bank_account_lesson": "Opening a bank account allows you to save, receive payments, and use digital financial services.",
+    "bank_account_fee": "No fee to open account",
+    "bank_account_location": "Local banks and microfinance institutions",
+    "bank_account_req_1": "Valid government-issued ID",
+    "bank_account_req_2": "Passport-sized photo",
+    "bank_account_q1": "Can I open an account without a job?",
+    "bank_account_a1": "Yes, employment is not required to open a savings account.",
+  
+    "tax_reg_lesson": "Tax registration is required to legally operate a business or receive a Taxpayer Identification Number (TIN).",
+    "tax_reg_fee": "No fee",
+    "tax_reg_location": "Tax offices",
+    "tax_reg_req_1": "Business license or employment document",
+    "tax_reg_req_2": "Valid ID",
+    "tax_reg_q1": "Is there a penalty for not registering?",
+    "tax_reg_a1": "Yes, unregistered entities may face fines or legal action.",
+  
+    "driving_license_lesson": "A driving license allows you to legally drive vehicles. It requires passing both written and practical tests.",
+    "driving_license_fee": "Approximately 1500 ETB",
+    "driving_license_location": "Transport authority offices",
+    "driving_license_req_1": "Age 18 or older",
+    "driving_license_req_2": "Medical check and ID",
+    "driving_license_q1": "Is training mandatory?",
+    "driving_license_a1": "Yes, you must complete training at a licensed school.",
+  
+    "vehicle_registration_lesson": "Vehicle registration legally links a vehicle to its owner and gives the right to drive it on public roads.",
+    "vehicle_reg_fee": "Varies by vehicle type",
+    "vehicle_reg_location": "Transport authority offices",
+    "vehicle_reg_req_1": "Vehicle purchase receipt",
+    "vehicle_reg_req_2": "Proof of insurance",
+    "vehicle_reg_q1": "How long does registration take?",
+    "vehicle_reg_a1": "Usually within 3 to 7 working days.",
+  
+    "social_sec_lesson": "Social security registration helps you access pensions, disability, and other benefits in old age or emergencies.",
+    "social_sec_fee": "Free",
+    "social_sec_location": "Social security offices",
+    "social_sec_req_1": "Employment or ID number",
+    "social_sec_req_2": "Filled registration form",
+    "social_sec_q1": "Is it required for all workers?",
+    "social_sec_a1": "Yes, all formal employees must register.",
+  
+    "family_support_lesson": "Family support services assist low-income families with food, housing, and school support for children.",
+    "family_support_fee": "Free",
+    "family_support_location": "Community centers",
+    "family_support_req_1": "Proof of income or poverty status",
+    "family_support_q1": "Where can I get help?",
+    "family_support_a1": "Visit your local community welfare office."
+  }
+  
