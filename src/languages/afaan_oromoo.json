@@ -1,6 +1,6 @@
 {
     "categories": {
-        "id": "Tajaajiloota Eenyummaa",
+        "id": "Tajaajiloota Eenyummeessaa",
         "health": "Tajaajiloota Fayyaa",
         "education": "Tajaajiloota Barnootaa",
         "finance": "Tajaajiloota Maallaqaa",
@@ -15,10 +15,11 @@
         "main_menu": "Baafata Jalqabaa"
       },
       "messages": {
-        "select_category": "Tajaajila keessaa tokkicha filadhu",
-        "select_service": "Tajaajila addaa filadhu",
-        "select_option": "Filannoo tokko filadhu"
-      }, 
+        "select_category": "📂 Tajaajila uummataa barbaaddu keessaa garee tokko filadhu (fakkeenyaaf: Eenyummeessaa, fayyaa, barnoota, kkf):",
+        "select_service": "📋 Garee filattee keessatti tajaajila irratti odeeffannoo barbaaddu filadhu:",
+        "select_option": "📌 Itti fufuuf filannoo armaan gadii keessaa tokko filadhu (fakkeenyaaf: Odeeffannoo dabalataa, Akkaataa galmee, Gaaffiiwwan gaafataman):"
+      },
+
       "prompts": {
         "requirements_header": "Ulaagaalee:",       
         "no_requirements": "Ulaagaaleen addaa hin jiru.",

@@ -32,7 +32,15 @@ bot.onText(/^\/start$/, msg => {
     const chatId = msg.chat.id;
     clear(chatId); // Reset previous session
 
-    bot.sendMessage(chatId, "Welcome! Please select your language / እባክዎ ቋንቋዎን ይምረጡ / Afaan filadhu", languageOptions);
+    bot.sendMessage(chatId, `👋 Welcome to **Ethiopian Services Bot**!
+
+    Your assistant for public services in Ethiopia 🇪🇹
+    
+    📄 Access step-by-step guides for:
+    - ID, health, education, finance, and more...
+    
+    🌍 Please select your language to begin:
+    እባክዎ ቋንቋዎን ይምረጡ / Afaan filadhaa`, languageOptions);
 });
 
 // 📥 Message Router
@@ -50,7 +58,7 @@ bot.on("message", async msg => {
             set(chatId, "stage", "category");
             await handleLanguageSelection(bot, chatId, langKey);
         } else {
-            bot.sendMessage(chatId, "Please select a language to continue.", languageOptions);
+            bot.sendMessage(chatId, "Please select your language to continue.", languageOptions);
         }
         return;
     }

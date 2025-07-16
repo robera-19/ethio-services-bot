@@ -15,10 +15,11 @@
       "main_menu": "Main Menu"
     },
     "messages": {
-        "select_category": "Please select a service category:",
-        "select_service": "Please select a specific service:",
-        "select_option": "Please choose an option:"
+        "select_category": "📂 Please choose a category of public services you'd like to explore (e.g. ID, health, education, etc.):",
+        "select_service": "📋 Now select the specific service you want to learn more about within the chosen category:",
+        "select_option": "📌 Choose one of the options below to continue (e.g. Learn More, How to Apply, FAQ, or Back):"
       },
+      
       "services": {
         "passport": "Passport",
         "birth_certificate": "Birth Certificate",
