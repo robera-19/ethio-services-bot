@@ -15,7 +15,7 @@ Built for inclusivity and clarity, the bot supports English, Amharic, and Afaan 
 
 🛠️ Setup Instructions
 1. Clone the Repository
-     git clone https://github.com/robera-19/ethiopian-services-bot.git
+     git clone https://github.com/robera-19/ethio-services-bot.git
      cd ethiopian-services-bot
 
 2. Install Dependencies
@@ -74,3 +74,5 @@ For each service, the bot provides:
 📘 Learn / More Info — Background information
 📝 How to Apply — Steps and required documents
 ❓ FAQ — Frequently asked questions
+
+https://www.awesomescreenshot.com/video/42092186?key=19c6bcc1f6a4785566917931600fedd3
